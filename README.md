@@ -7,7 +7,7 @@ source: [Is coal's decline terminal?](http://ageconmt.com/coals-decline-terminal
 
 ![total coal production](http://www.justfacts.com/images/energy/us_coal_production_consumption_exports-full.png)
 
-Costs for clean energy
+### Costs for clean energy
 
 ![cost of solar](https://c1cleantechnicacom-wpengine.netdna-ssl.com/files/2016/12/low-costs-solar-wind-drop.png)
 
