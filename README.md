@@ -21,6 +21,9 @@ Question: Is unemployment calculated correctly and [is the drop in labor partici
 
 I think the unemployment rate may currently still be underestimated a bit as of December 2017.
 
+### Real Household Income
+
+![https://www.advisorperspectives.com/images/content_image/data/b1/b1e7babc732ffca862f85785e35c570d.png](https://www.advisorperspectives.com/dshort/updates/2018/10/16/u-s-household-incomes-a-51-year-perspective)
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
