@@ -25,5 +25,8 @@ I think the unemployment rate may currently still be underestimated a bit as of 
 
 ![https://www.advisorperspectives.com/dshort/updates/2018/10/16/u-s-household-incomes-a-51-year-perspective](https://user-images.githubusercontent.com/55744/51228568-0fbd6480-1927-11e9-8da6-9e32ab16f269.png)
 
+### National Economic Growth
+
+![https://www.visualcapitalist.com/worlds-largest-10-economies-2030/](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/gdp-2030-projections.png)
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
